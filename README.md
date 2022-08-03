@@ -24,7 +24,7 @@ How to make raylib static libraries for visual studio 2022 from raylib 4.0 sourc
 
 ![Solution](/images/s04-solution.png)
 
-8. Now right click on `raylib` project and choose `properties` set the `OutputDirectory` -> `$(SolutionDir)_Bin\$(Configuration)` for better visibility for output files. The for each platform (Debug and Release) make builds then the output folder looks like this. It contains `raylib.lin` files for each configuration.
+8. Now right click on `raylib` project and choose `properties` set the `OutputDirectory` -> `$(SolutionDir)_Bin\$(Configuration)` for better visibility for output files. For each platform (Debug and Release) make builds then the output folder looks like this. It contains `raylib.lib` files for each configuration.
 
 ![Solution](/images/s05-properties.png)
 
