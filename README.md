@@ -48,12 +48,12 @@ How to make raylib static libraries for visual studio 2022 from raylib 4.0 sourc
 
     > `$(SolutionDir)lib\$(Configuration)` under `Linker/General -> Additonal Library Directories`<br/>
 
-    > Add these under `Linker/Input/Additional Depencies`
-        >> raylib.lib <br/>
-        >> winmm.lib <br/>
-        >> opengl32.lib <br/>
-        >> kernel32.lib <br/>
-        >> gdi32.lib <br/>
+    > Add these under `Linker/Input/Additional Depencies` <br/>
+         raylib.lib <br/>
+         winmm.lib <br/>
+         opengl32.lib <br/>
+         kernel32.lib <br/>
+         gdi32.lib <br/>
 
     > And `$(SolutionDir)_Bin\$(Configuration)` under General/Output Directory.
 
