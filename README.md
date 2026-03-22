@@ -1,12 +1,15 @@
 # raylib-visual-studio-2022
+
 ## Update ##
+Dt: 22.03.2026
+- Updated libs and include to Raylib v 5.5.
+- At this time of writing, raylib v5.5.0 is available. You can download the v4.0 source code zip file directly from this link: https://github.com/raysan5/raylib/archive/refs/tags/5.5.zip
+and the process is pretty much the same you can follow it along.
+
 Dt: 24.08.2022
 - Updated libs and include to Raylib v 4.2
 
 How to make raylib static libraries for visual studio 2022 from raylib 4.0 source code.
-
- Process is similar.
-
 1. Download the source code from https://github.com/raysan5/raylib/releases
 
 2. At this time of writing, raylib v4.0.0 is available. You can download the v4.0 source code zip file directly from this link: https://github.com/raysan5/raylib/archive/refs/tags/4.0.0.zip
