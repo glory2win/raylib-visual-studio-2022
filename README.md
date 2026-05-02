@@ -3,7 +3,7 @@
 ## Update ##
 Dt: 22.03.2026
 - Updated libs and include to Raylib v 5.5.
-- At this time of writing, raylib v5.5.0 is available. You can download the v4.0 source code zip file directly from this link: https://github.com/raysan5/raylib/archive/refs/tags/5.5.zip
+- At this time of writing, raylib v5.5.0 is available. You can download the v5.5 source code zip file directly from this link: https://github.com/raysan5/raylib/archive/refs/tags/5.5.zip
 and the process is pretty much the same you can follow it along.
 
 Dt: 24.08.2022
