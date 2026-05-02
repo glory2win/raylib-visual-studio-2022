@@ -1,3 +1,7 @@
+# raylib-visual-studio
+Dt: 02.05.2026
+Renamed project, removed visual studio version in project name.
+
 # raylib-visual-studio-2022
 
 ## Update ##
