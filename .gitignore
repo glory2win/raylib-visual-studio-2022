@@ -34,3 +34,5 @@ _Bin
 *.out
 *.app
 raylib-visual-studio-2022/.vs/
+raylib-visual-studio/.vs/
+raylib-visual-studio/raylib-visual-studio/x64/
